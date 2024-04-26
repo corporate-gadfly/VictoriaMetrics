@@ -30,6 +30,8 @@ See also [LTS releases](https://docs.victoriametrics.com/lts-releases/).
 
 ## tip
 
+* BUGFIX: [vmui](https://docs.victoriametrics.com/#vmui): corrects an issue that prevents the first query trace from expanding on click. See [this issue](https://github.com/VictoriaMetrics/VictoriaMetrics/issues/6186).
+
 ## [v1.101.0](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.101.0)
 
 Released at 2024-04-26
